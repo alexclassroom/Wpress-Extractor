@@ -9,6 +9,7 @@ Wpress-Extractor 是能讓使用者解壓縮由 WWordPress 外掛 All-in-One WP 
 [下載 Windows 版](https://github.com/fifthsegment/Wpress-Extractor/raw/master/dist/wpress-extractor.exe)
 
 [下載 macOS 版](https://github.com/fifthsegment/Wpress-Extractor/blob/master/dist/mac/wpress_extractor?raw=true)
+
 *macOS 使用者注意事項：請記得在 [終端機] 中先對之前下載的編譯檔下達 `chmod +x wpress_extractor` 指令。
 
 ## 解壓縮/開啟 .wpress 檔案的方式
