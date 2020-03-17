@@ -1,4 +1,4 @@
-# WWindows/macOS 版 Wpress-Extractor
+# Windows/macOS 版 Wpress-Extractor
 Wpress-Extractor 是能讓使用者解壓縮由 WWordPress 外掛 All-in-One WP Migration 產生的 .wpress 檔案的簡易 Windows 應用程式。
 
 ## 致謝
