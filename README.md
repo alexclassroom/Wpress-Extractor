@@ -23,7 +23,7 @@ Wpress-Extractor 是能讓使用者解壓縮由 WWordPress 外掛 All-in-One WP 
 
 僅需下載 Windows 版解壓縮程式，並將要解壓縮的 .wpress 檔案拖放至這個解壓縮程式執行檔 (Wpress-extractor.exe)。
 
-[感謝 hughc 協助](https://github.com/hughc)!)
+[感謝 hughc 協助](https://github.com/hughc)
 
 
 OR
