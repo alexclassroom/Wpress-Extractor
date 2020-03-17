@@ -32,8 +32,8 @@ Wpress-Extractor 是能讓使用者解壓縮由 WWordPress 外掛 All-in-One WP 
 3. 將下載的解壓縮程式複製至步驟 2 建立的資料夾。
 4. 將 .wpress 檔案複製至步驟 2 建立的資料夾。
 5. 開啟 \[命令提示字元\]。
-6. CD into the directory you just created, let's say its C:\Wordpress-Backup. The command you'll run would be `cd C:\Wordpress-Backup`
-7. Now run the following command `wpress-extractor <name-of-your.wpress file>`. For example my .wpress file was fifthsegment.wpress so the command I ran was `wpress-extractor fifthsegment.wpress`.
-8. You'll find your files extracted into the same directory where the extractor was run. In my case it was `C:\Wordpress-Backup`
+6. 透過 cd 命令瀏覽至步驟 2 建立的資料夾，例如 C:\Wordpress-Backup。命令範例：`cd C:\Wordpress-Backup`。
+7. 執行命令 `wpress-extractor <name-of-your.wpress 檔案>`。如果此時的 .wpress 檔案為 `fifthsegment.wpress`，命令範例便會是 `wpress-extractor fifthsegment.wpress`。
+8. 檔案解壓縮完成後，解壓縮的檔案便會儲存在同一個資料夾中，在這個範例中則是 `C:\Wordpress-Backup`。
 
 
