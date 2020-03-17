@@ -21,9 +21,7 @@ Wpress-Extractor 是能讓使用者解壓縮由 WordPress 外掛 All-in-One WP M
 ## 我並不熟悉相關技術，該如何使用這個程式？
 ### Windows 版程式使用說明
 
-僅需下載 Windows 版解壓縮程式，並將要解壓縮的 .wpress 檔案拖放至這個解壓縮程式執行檔 (Wpress-extractor.exe)。
-
-[感謝 hughc 協助](https://github.com/hughc)
+僅需下載 Windows 版解壓縮程式，並將要解壓縮的 .wpress 檔案拖放至 Wpress-extractor.exe 這個解壓縮程式執行檔 [感謝 hughc 協助](https://github.com/hughc)。
 
 或依照以下步驟：
 
