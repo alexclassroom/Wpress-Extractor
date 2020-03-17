@@ -2,7 +2,7 @@
 Wpress-Extractor 是能讓使用者解壓縮由 WWordPress 外掛 All-in-One WP Migration 產生的 .wpress 檔案的簡易 Windows 應用程式。
 
 ## 致謝
-壓縮程式原始程式碼：[https://github.com/yani-/wpress](https://github.com/yani-/wpress)
+解壓縮程式原始程式碼：[https://github.com/yani-/wpress](https://github.com/yani-/wpress)
 這個 GitHub 專案的原開發者 [fifthsegment](https://github.com/fifthsegment) 對原始程式碼進行小幅修改，讓引用專案中的 reader.go 檔案能執行於 Windows 作業系統。
 
 ## 下載連結
@@ -13,8 +13,9 @@ Wpress-Extractor 是能讓使用者解壓縮由 WWordPress 外掛 All-in-One WP 
 *macOS 使用者注意事項：請記得在 [終端機] 中先對之前下載的編譯檔下達 `chmod +x wpress_extractor` 指令。
 
 ## 解壓縮/開啟 .wpress 檔案的方式
-Simply provide a path to your downloaded .wpress file as the first commandline argument to the program.
-`./wpress_extractor /path/to/my/backup.wpress`
+將下載的 .wpress 檔案的路徑作為程式的第一個命令引數。
+
+例如：`./wpress_extractor /path/to/my/backup.wpress`
 
 ## I'm not very technical - How to use this thing?
 ### Windows Instructions
